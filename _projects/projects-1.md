@@ -4,7 +4,6 @@ excerpt: "Predicts the amount of renewable energy that an area can produce by Py
 collection: projects
 permalink: /projects/projects-1/
 
-(https://sbaek21.github.io/images/locationlocationlocation.jpg)
 ---
 A project for CodeADA 2022, a two day hackathon held by WCS. Won Participants Choice Award.
 
@@ -18,6 +17,9 @@ the best energy source for their area, with a simple and intuitive interface.
 - Designed and implemented user interfaces and location-based input features using React and Google Maps API to enhance usability.
 - Streamlined backend-frontend interactions, ensuring efficient data flow and system reliability for renewable energy predictions.
 - Developed a Flask-based backend to integrate Python predictive models with a React frontend, enabling seamless energy source analysis.
+
+
+For more information, including the repository and implementation details, visit the project on [GitHub](https://github.com/sbaek21/locationlocationlocation).
 
 <!-- 
 ---
