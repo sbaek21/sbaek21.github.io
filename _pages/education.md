@@ -11,7 +11,7 @@ author_profile: true
 <p>Bachelor of Science in Computer Science + Chemistry | May 2025</p>
 <p><strong>Honors:</strong> James Scholar, Dean’s List (SP24)</p>
 
-<h3>Awards & Honors</h3>
+<h2 style="font-size: 1.8em; margin-top: 1.5em;">Awards & Honors</h2>
 
 <div>
   <p><strong>Dean's List Spring 2025</strong> | Date Received: 05/2024</p>
