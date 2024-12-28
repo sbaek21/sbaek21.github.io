@@ -7,6 +7,7 @@ permalink: /projects/projects-1/
 ---
 A project for CodeADA 2022, a two day hackathon held by WCS. Won Participants Choice Award.
 
+![locationlocationlocation Screenshot 1](/images/locationlocationlocation.jpg)
 ## Description
 Some energy sources are better than others for certain amount of land. Different contexts of locations make a rapid 
 clean energy transition more complicated.

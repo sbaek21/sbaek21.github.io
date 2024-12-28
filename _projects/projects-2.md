@@ -20,3 +20,6 @@ Data is currently sourced from Campus Recreation and university libraries.
 
 - Developed a frontend for a project to estimate and visualize the occupancy of public spaces on campus.
 - Established a React app with modern React hooks, a REST API, and responsive design principles.
+
+
+For more information, including the repository and implementation details, visit the project on [GitHub](https://github.com/sbaek21/openspace).
