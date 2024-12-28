@@ -1,6 +1,6 @@
 ---
 title: "Escape the Grainger"
-excerpt: "A third-person, side-scrolling platformer game developed in Unreal Engine<br/><img src='/images/EscapetheGrainger.jpg'>"
+excerpt: "A third-person, side-scrolling platformer game developed in Unreal Engine.<br/><img src='/images/EscapetheGrainger.jpg'>"
 collection: projects
 permalink: /projects/projects-3/
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Openspace"
-excerpt: "Visualize the occupancy of campus buildings to help UIUC students find good study/workout spots and avoid overcrowding
+excerpt: "Visualize the occupancy of campus buildings to help UIUC students find good study/workout spots and avoid overcrowding.
 <br/><img src='/images/openspace1.jpg'>"
 collection: projects
 permalink: /projects/projects-2/

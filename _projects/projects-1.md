@@ -1,6 +1,6 @@
 ---
 title: "locationlocationlocation"
-excerpt: "Predicts the amount of renewable energy that an area can produce by Python API and a web interface<br/><img src='/images/locationlocationlocation.jpg'>"
+excerpt: "Predicts the amount of renewable energy that an area can produce by Python API and a web interface.<br/><img src='/images/locationlocationlocation.jpg'>"
 collection: projects
 permalink: /projects/projects-1/
 

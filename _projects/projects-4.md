@@ -1,6 +1,6 @@
 ---
 title: "Recipe Builder"
-excerpt: "A web application that recommends recipes based on user-provided ingredients, reducing food waste and promoting healthy cooking"
+excerpt: "A web application that recommends recipes based on user-provided ingredients, reducing food waste and promoting healthy cooking."
 collection: projects
 permalink: /projects/projects-4/
 ---
