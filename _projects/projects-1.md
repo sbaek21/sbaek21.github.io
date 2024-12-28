@@ -4,12 +4,9 @@ excerpt: "Predicts the amount of renewable energy that an area can produce by Py
 collection: projects
 permalink: /projects/projects-1/
 
+(https://sbaek21.github.io/images/locationlocationlocation.jpg)
 ---
-# locationlocationlocation
-
-A project for CodeADA 2022, a two day hackathon held by WCS.
-
-Participants choice winner!
+A project for CodeADA 2022, a two day hackathon held by WCS. Won Participants Choice Award.
 
 ## Description
 Some energy sources are better than others for certain amount of land. Different contexts of locations make a rapid 
