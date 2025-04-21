@@ -14,7 +14,16 @@ author_profile: true
 <h2 style="font-size: 1.3em; margin-top: 1.5em; font-weight: bold; line-height: 1.2;">Awards & Honors</h2>
 
 <div>
-  <p><strong>Dean's List Spring 2025</strong> | Date Received: 05/2024</p>
+  <p><strong>Honorable Mention – Illinois Statistics Datathon</strong> | Date Received: 04/2025</p>
+  <p>
+    Placed in the Top 10% and received an Honorable Mention at the 2025 Illinois Statistics Datathon, hosted by Department of Statistics in partnership with Synchrony Financial. Collaborated as Team 101 on data-driven insights 
+    under time constraints and presented results to a panel of judges.
+    View project: <a href="https://github.com/sbaek21/Synchrony_Datathon_2025" target="_blank">GitHub Repository</a>.
+  </p>
+</div>
+
+<div>
+  <p><strong>Dean's List Spring 2024</strong> | Date Received: 05/2024</p>
   <p>
     Awarded to students in the top 20% of the college class for exceptional academic performance. 
     Eligibility required completing a minimum of 12 semester hours taken for a letter grade. 
