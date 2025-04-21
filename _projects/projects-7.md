@@ -9,6 +9,8 @@ permalink: /projects/projects-7/
 ## Description
 TaskMaster is a web-based productivity application designed to help users efficiently manage tasks, schedules, and daily goals. Inspired by modern project management tools, it offers a simple and intuitive interface where users can create, edit, and organize tasks into categories such as Not Started, In Progress, and Completed. With an emphasis on clarity and responsiveness, TaskMaster supports everyday task tracking and is built to scale with features like deadline management and Google Calendar synchronization for seamless planning.
 
+🎥 [Watch the Demo on YouTube](https://youtu.be/HZfL9kTzoGs)
+
 - **Task Board Interface**:
   - Kanban-style layout for organizing tasks based on status.
   - Clickable status icons allow seamless transitions between task states.
