@@ -8,8 +8,10 @@ author_profile: true
 <!-- {% include base_path %} -->
 
 <p><strong>University of Illinois, Urbana-Champaign</strong> | Champaign-Urbana, IL</p>
-<p>Master in Computer Science | August 2025 - Present</p>
-<p>Bachelor of Science in Computer Science + Chemistry | May 2025</p>
+<ul>
+  <li><strong>Master in Computer Science</strong> | August 2025 - Present</li>
+  <li><strong>Bachelor of Science in Computer Science + Chemistry</strong> | May 2025</li>
+</ul>
 <p><strong>Honors:</strong> James Scholar, Dean’s List (SP24)</p>
 
 <h2 style="font-size: 1.3em; margin-top: 1.5em; font-weight: bold; line-height: 1.2;">Awards & Honors</h2>
